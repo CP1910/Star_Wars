@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="7" passed="7">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="9283" started-at="2022-07-19T10:50:06 EDT" finished-at="2022-07-19T10:50:15 EDT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="9283" started-at="2022-07-19T10:50:06 EDT" finished-at="2022-07-19T10:50:15 EDT">
+      <class name="TestCases">
+        <test-method status="PASS" signature="all_Character_Valid_Test()[pri:1, instance:TestCases@6eceb130]" name="all_Character_Valid_Test" duration-ms="3275" started-at="2022-07-19T10:50:06 EDT" finished-at="2022-07-19T10:50:09 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- all_Character_Valid_Test -->
+        <test-method status="PASS" signature="all_Character_Invalid_Test()[pri:2, instance:TestCases@6eceb130]" name="all_Character_Invalid_Test" duration-ms="1132" started-at="2022-07-19T10:50:09 EDT" finished-at="2022-07-19T10:50:10 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- all_Character_Invalid_Test -->
+        <test-method status="PASS" signature="Blank_Search()[pri:3, instance:TestCases@6eceb130]" name="Blank_Search" duration-ms="1030" started-at="2022-07-19T10:50:10 EDT" finished-at="2022-07-19T10:50:11 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Blank_Search -->
+        <test-method status="PASS" signature="specific_Character_Valid_Test()[pri:4, instance:TestCases@6eceb130]" name="specific_Character_Valid_Test" duration-ms="965" started-at="2022-07-19T10:50:11 EDT" finished-at="2022-07-19T10:50:12 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- specific_Character_Valid_Test -->
+        <test-method status="PASS" signature="specific_Character_Invalid_Test()[pri:5, instance:TestCases@6eceb130]" name="specific_Character_Invalid_Test" duration-ms="978" started-at="2022-07-19T10:50:12 EDT" finished-at="2022-07-19T10:50:13 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- specific_Character_Invalid_Test -->
+        <test-method status="PASS" signature="search_Planets_Valid_Test()[pri:6, instance:TestCases@6eceb130]" name="search_Planets_Valid_Test" duration-ms="834" started-at="2022-07-19T10:50:13 EDT" finished-at="2022-07-19T10:50:14 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- search_Planets_Valid_Test -->
+        <test-method status="PASS" signature="search_Planets_Invalid_Test()[pri:7, instance:TestCases@6eceb130]" name="search_Planets_Invalid_Test" duration-ms="994" started-at="2022-07-19T10:50:14 EDT" finished-at="2022-07-19T10:50:15 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- search_Planets_Invalid_Test -->
+      </class> <!-- TestCases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
